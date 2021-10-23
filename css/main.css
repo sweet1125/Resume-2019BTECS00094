@@ -60,7 +60,7 @@ img {
 a:link,
 a:active,
 a:visited {
-  color: rgb(3, 10, 46);
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
 a:hover {
